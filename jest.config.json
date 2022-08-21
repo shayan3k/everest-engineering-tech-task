@@ -1,0 +1,8 @@
+{
+  "testTimeout": 10000,
+  "testPathIgnorePatterns": ["<rootDir>/node_modules/"],
+  "modulePathIgnorePatterns": ["<rootDir>/node_modules/"],
+  "moduleFileExtensions": ["ts", "js", "json"],
+  "moduleNameMapper": {},
+  "verbose": true
+}

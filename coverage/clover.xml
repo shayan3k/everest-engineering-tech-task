@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1661060493211" clover="3.2.0">
+  <project timestamp="1661060493211" name="All files">
+    <metrics statements="154" coveredstatements="149" conditionals="62" coveredconditionals="58" methods="28" coveredmethods="25" elements="244" coveredelements="232" complexity="0" loc="154" ncloc="154" packages="3" files="10" classes="10"/>
+    <package name="src">
+      <metrics statements="59" coveredstatements="56" conditionals="38" coveredconditionals="35" methods="10" coveredmethods="8"/>
+      <file name="askBaseDeliverCostAndNumberOfPackages.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\askBaseDeliverCostAndNumberOfPackages.js">
+        <metrics statements="21" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="54" count="3" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+      </file>
+      <file name="chooseTheProblemType.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\chooseTheProblemType.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="getPackagesInformation.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\getPackagesInformation.js">
+        <metrics statements="24" coveredstatements="23" conditionals="11" coveredconditionals="10" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="38" count="9" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+        <line num="54" count="9" type="stmt"/>
+        <line num="55" count="9" type="stmt"/>
+        <line num="58" count="9" type="stmt"/>
+        <line num="61" count="9" type="stmt"/>
+        <line num="64" count="9" type="stmt"/>
+        <line num="75" count="9" type="stmt"/>
+        <line num="87" count="4" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+      </file>
+      <file name="getTheDiscountPercentage.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\getTheDiscountPercentage.js">
+        <metrics statements="8" coveredstatements="7" conditionals="20" coveredconditionals="18" methods="1" coveredmethods="1"/>
+        <line num="7" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+      </file>
+      <file name="sleep.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\sleep.js">
+        <metrics statements="2" coveredstatements="2" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="3" count="13" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.firstProblem">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="calculateTheFirstProblemResults.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\firstProblem\calculateTheFirstProblemResults.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.secondProblem">
+      <metrics statements="85" coveredstatements="83" conditionals="24" coveredconditionals="23" methods="17" coveredmethods="16"/>
+      <file name="askNoOfVehiclesMaxSpeedMaxCarriableWeight.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\secondProblem\askNoOfVehiclesMaxSpeedMaxCarriableWeight.js">
+        <metrics statements="23" coveredstatements="22" conditionals="11" coveredconditionals="11" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+      <file name="calculateDeliveryEstimation.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\secondProblem\calculateDeliveryEstimation.js">
+        <metrics statements="15" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="15" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="36" count="15" type="stmt"/>
+        <line num="39" count="15" type="stmt"/>
+        <line num="44" count="15" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+      </file>
+      <file name="calculateTheSecondProblemResults.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\secondProblem\calculateTheSecondProblemResults.js">
+        <metrics statements="24" coveredstatements="23" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="9" type="stmt"/>
+        <line num="41" count="9" type="stmt"/>
+        <line num="43" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="46" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="60" count="5" type="stmt"/>
+        <line num="64" count="5" type="stmt"/>
+        <line num="67" count="5" type="stmt"/>
+        <line num="74" count="5" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+      </file>
+      <file name="getTheOptimizedPackageRoutes.js" path="C:\Users\ShayaNNN\Desktop\Everest.engineering\javascript-everest-engineering\src\secondProblem\getTheOptimizedPackageRoutes.js">
+        <metrics statements="23" coveredstatements="23" conditionals="9" coveredconditionals="9" methods="6" coveredmethods="6"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="112" type="cond" truecount="5" falsecount="0"/>
+        <line num="15" count="60" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="36" type="stmt"/>
+        <line num="23" count="60" type="stmt"/>
+        <line num="29" count="52" type="stmt"/>
+        <line num="36" count="52" type="stmt"/>
+        <line num="39" count="52" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="46" count="8" type="stmt"/>
+        <line num="49" count="8" type="stmt"/>
+        <line num="52" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="8" type="stmt"/>
+        <line num="59" count="20" type="stmt"/>
+        <line num="62" count="28" type="stmt"/>
+        <line num="65" count="8" type="stmt"/>
+        <line num="66" count="22" type="stmt"/>
+        <line num="70" count="8" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
